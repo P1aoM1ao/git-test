@@ -10,6 +10,7 @@ public class FirstTest {
     }
     public void test(){
         int i = 1;
+        String s="hasakei";
         i += 10;
         System.out.println(i);
     }
